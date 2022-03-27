@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+main {
+  background-image: url(../../assets/home/background-home-desktop.jpg);
+  background-size: cover;
+}
